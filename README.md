@@ -16,14 +16,14 @@ Aliquam commodo metus mauris, lacinia facilisis nisl malesuada ac.
 * lacinia
 * malesuada
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdI5h6LZxis-xvMA-mioIFBUdBqrofceIn1A&s){width='100px'}
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdI5h6LZxis-xvMA-mioIFBUdBqrofceIn1A&s)
 
 :blush:
 :kissing_closed_eyes:
 
 ------
 
-[!NOTE]
-Useful information that users should know, even when skimming content.
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 ------
